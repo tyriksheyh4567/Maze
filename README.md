@@ -12,7 +12,7 @@ _Остерегайтесь **стен** и **врага**_!<br>
 This is a labyrinth game written in **Python** using the _Pygame_ library.<br>
 
 _To move, you need to use **arrows on the keyboard**_.<br>
-_To win, you need to go for the **treasure**_.<br>
+_To win, you need to go and take the **treasure**_.<br>
 _Beware of **walls** and **enemy**_!<br>
 
 **Gameplay screenshot:**<br>
